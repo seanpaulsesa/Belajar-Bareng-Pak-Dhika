@@ -51,7 +51,7 @@
 
 // operator Logika
 // &&, ||, !
-echo 'PAULUS SESA'
+echo 'Pace Koding'
 ?>
 
 <!DOCTYPE html>
