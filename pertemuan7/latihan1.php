@@ -33,7 +33,7 @@ $mahasiswa = [
 	"nrp" => "20180511074013", 
 	"email" => "pacekodingl7700@gmail.com", 
 	"jurusan" => "Information System", 
-	"gambar" => "paulus.jpg"
+	"gambar" => "paul.jpg"
 	]
 
 ];
